@@ -21,6 +21,6 @@ public class Assignment1Program2 {
 
     int Maximumdigit = Basenumber - 1;
     int Maximumbase10 = (int)Math.pow(Basenumber, 4) - 1;
-    System.out.println("The maximum, 4-digit, base" + Basenumber + " is:" + Maximumdigit + Maximumdigit + Maximumdigit + Maximumdigit + " which equals to " + Maximumbase10 + "in base 10");
+    System.out.println("The maximum, 4-digit, base" + Basenumber + " is:" + Maximumdigit + Maximumdigit + Maximumdigit + Maximumdigit + " which equals to " + Maximumbase10 + " in base 10");
   }
 }
